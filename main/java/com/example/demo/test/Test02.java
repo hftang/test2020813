@@ -2,6 +2,7 @@ package com.example.demo.test;
 
 import com.example.demo.bean.TestObject;
 
+import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
@@ -32,6 +33,9 @@ public class Test02 {
 //        list.stream().filter(TestObject::isMng).forEach(e-> System.out.println(e));
 
         //添加kk
+
+        List ll=new ArrayList();
+        ll.add("qqq");
 
 
     }
