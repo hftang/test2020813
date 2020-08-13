@@ -31,6 +31,8 @@ public class Test02 {
         //选择isMng为true的
 //        list.stream().filter(TestObject::isMng).forEach(e-> System.out.println(e));
 
+        //添加kk
+
 
     }
 }
